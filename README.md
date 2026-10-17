@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0169-majority-element) |
+| [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
 | [1109-corporate-flight-bookings](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1109-corporate-flight-bookings) |
 | [1314-matrix-block-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1314-matrix-block-sum) |
 | [1652-defuse-the-bomb](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1652-defuse-the-bomb) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0147-insertion-sort-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
