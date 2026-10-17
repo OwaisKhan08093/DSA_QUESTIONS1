@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0415-add-strings) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
@@ -100,9 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0445-add-two-numbers-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
