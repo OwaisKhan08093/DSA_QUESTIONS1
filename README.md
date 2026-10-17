@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0169-majority-element) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2784-check-if-array-is-good](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2784-check-if-array-is-good) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1109-corporate-flight-bookings](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1109-corporate-flight-bookings) |
 | [1314-matrix-block-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1314-matrix-block-sum) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1732-find-the-highest-altitude](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1732-find-the-highest-altitude) |
 | [2848-points-that-intersect-with-cars](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2848-points-that-intersect-with-cars) |
 ## Binary Indexed Tree
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0445-add-two-numbers-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 <!---LeetCode Topics End-->
