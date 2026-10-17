@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0147-insertion-sort-list) |
+| [0445-add-two-numbers-ii](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
 ## Prefix Sum
 |  |
@@ -87,9 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
+## Math
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
