@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0413-arithmetic-slices) |
 | [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
 | [1109-corporate-flight-bookings](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1109-corporate-flight-bookings) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2784-check-if-array-is-good](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2784-check-if-array-is-good) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -43,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -120,4 +125,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0413-arithmetic-slices) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
