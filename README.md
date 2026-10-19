@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1314-matrix-block-sum) |
 | [1652-defuse-the-bomb](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1732-find-the-highest-altitude) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2784-check-if-array-is-good](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2848-points-that-intersect-with-cars) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2784-check-if-array-is-good](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2784-check-if-array-is-good) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
