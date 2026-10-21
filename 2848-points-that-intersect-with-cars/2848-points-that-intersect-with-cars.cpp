@@ -12,7 +12,7 @@ public:
         int count=0;    
         for(int i=1;i<=102;i++){
             prefSum[i]+=prefSum[i-1];
-             if(prefSum[i]!=0){
+             if(prefSum[i]>0){
                 count++;
             }
         }
