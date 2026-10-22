@@ -187,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
