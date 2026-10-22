@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0147-insertion-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0234-palindrome-linked-list) |
 ## Number Theory
 |  |
 | ------- |
