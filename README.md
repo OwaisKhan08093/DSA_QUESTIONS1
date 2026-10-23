@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2326-spiral-matrix-iv](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2326-spiral-matrix-iv) |
 | [2784-check-if-array-is-good](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2326-spiral-matrix-iv) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Prefix Sum
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1314-matrix-block-sum) |
+| [2326-spiral-matrix-iv](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2326-spiral-matrix-iv) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0537-complex-number-multiplication) |
+| [2326-spiral-matrix-iv](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2326-spiral-matrix-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
