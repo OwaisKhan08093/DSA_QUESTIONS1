@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1652-defuse-the-bomb) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0049-group-anagrams) |
 | [0415-add-strings](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0537-complex-number-multiplication) |
