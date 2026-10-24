@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0575-distribute-candies](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0643-maximum-average-subarray-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
 | [1109-corporate-flight-bookings](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1109-corporate-flight-bookings) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0575-distribute-candies](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0575-distribute-candies) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
