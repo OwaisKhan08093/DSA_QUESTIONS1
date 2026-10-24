@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0643-maximum-average-subarray-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1019-next-greater-node-in-linked-list) |
+| [1090-largest-values-from-labels](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1090-largest-values-from-labels) |
 | [1109-corporate-flight-bookings](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1109-corporate-flight-bookings) |
 | [1314-matrix-block-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0575-distribute-candies) |
+| [1090-largest-values-from-labels](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1090-largest-values-from-labels) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1090-largest-values-from-labels](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1090-largest-values-from-labels) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2784-check-if-array-is-good](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2784-check-if-array-is-good) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0347-top-k-frequent-elements) |
+| [1090-largest-values-from-labels](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1090-largest-values-from-labels) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Divide and Conquer
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1090-largest-values-from-labels](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1090-largest-values-from-labels) |
 ## Two Pointers
 |  |
 | ------- |
