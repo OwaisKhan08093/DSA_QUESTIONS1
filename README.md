@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2409-count-days-spent-together) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
