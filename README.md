@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2326-spiral-matrix-iv](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2326-spiral-matrix-iv) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2784-check-if-array-is-good](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2784-check-if-array-is-good](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OwaisKhan08093/DSA_QUESTIONS1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
